@@ -1,2 +1,3 @@
- node_modulos/
- passwords.json
+node_modules/
+passwords.json
+passwwords.json
